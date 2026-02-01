@@ -1,7 +1,5 @@
  # PABC-review
 
-The code presented here is solely for review purposes.
-
 Data File Sources:
  - Transcriptomic profiles pregnancy-associated breast cancer (PABC) tumours were downloaded from the GEO database (https://www.ncbi.nlm.nih.gov/geo/) from a study characterizing the molecular signature of PABC under accession code GSE31192
  - Transcriptomic profiles of breast invasive carcinoma tumours were downloaded from the TCGA-BRCA project (https://portal.gdc.cancer.gov/projects/TCGA-BRCA)
